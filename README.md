@@ -17,7 +17,7 @@ This repository documents my hands-on experience with Microsoft Azure, Infrastru
 ***1. Cloud Resource Deployment***
 
 This screenshot shows the successful deployment of the virtual infrastructure. It confirms the orchestration of the Virtual Network (VNet), Public IP, and Network Interfaces
-![](./Success.png)
+![Deployment of VM](./Success.png)
 ***2. Remote Management & Server Manager***
 
 Once the VM was provisioned, I established a secure RDP connection. This view shows the Server Manager dashboard, confirming the server is ready for role installation (e.g., IIS, AD DS, or File Services).
