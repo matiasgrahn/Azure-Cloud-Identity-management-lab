@@ -21,11 +21,11 @@ This screenshot shows the successful deployment of the virtual infrastructure. I
 ***2. Remote Management & Server Manager***
 
 Once the VM was provisioned, I established a secure RDP connection. This view shows the Server Manager dashboard, confirming the server is ready for role installation (e.g., IIS, AD DS, or File Services).
-![](./)
+![](./View-of-server-manager.png)
 ***3. Identity & Access Management (Entra ID)***
 
 A view of the Microsoft Entra ID portal showing the creation of user accounts and administrative groups, simulating a real-world corporate identity structure.
-![](./)
+![](./Password-reset.png)
 ## 🧠 Lessons Learned
 * ***Troubleshooting***: Successfully navigated Azure regional quota restrictions by analyzing "Raw Error" logs and adjusting deployment regions.
 * ***Cost Control***: Implemented "Stop (deallocated)" procedures and auto-shutdown schedules to maximize the efficiency of cloud credits.
