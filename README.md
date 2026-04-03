@@ -13,7 +13,7 @@ This repository documents my hands-on experience with Microsoft Azure, Infrastru
 * ***Region***: Switzerland North (Optimized for availability)
 * ***Connectivity***: Remote Desktop Protocol (RDP)
 
-##📸 Lab Documentation
+## 📸 Lab Documentation
 ***1. Cloud Resource Deployment***
 This screenshot shows the successful deployment of the virtual infrastructure. It confirms the orchestration of the Virtual Network (VNet), Public IP, and Network Interfaces
 
